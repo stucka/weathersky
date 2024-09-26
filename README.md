@@ -12,5 +12,12 @@ The initial version of this was built to publish tornado warnings, and only torn
 
 My hope would to begin publishing maps with some of these alerts, and to begin publishing significant alerts for each National Weather Service office as well. Will any of this happen? Did it already happen and I never updated the documentation?
 
+## Thank yous
+
+The origins of this are rooted in a conversation on Bluesky, which can be found at https://bsky.app/profile/mikestucka.bsky.social/post/3l4z6clgufb2f .
+
+@WxBDM 's `nwsapy` package made this far easier to build in a hurry. https://github.com/WxBDM/nwsapy
+
+
 ## Questions? Problems?
 Mike Stucka is exclusively to blame for anything weird or awkward or nonsensical here.
