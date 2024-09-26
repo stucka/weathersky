@@ -1,0 +1,6 @@
+atproto
+dataset
+ipykernel
+jupyter
+nwsapy
+papermill
